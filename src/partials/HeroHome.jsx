@@ -40,7 +40,7 @@ function HeroHome() {
               DeiBot
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-              DeiBot uses state od the art AI price prediction with proven trading records to help our customers build their portfolio to its full potential. Try out our free trial to create your personalized algorithmic trading.
+              DeiBot uses state of the art AI price prediction with a proven track record to help our customers build their portfolio to its full potential. Try out our free trial to create your personalized algorithmic trading strategy.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
