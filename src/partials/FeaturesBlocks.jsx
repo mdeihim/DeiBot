@@ -8,8 +8,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">The average day trader will end up losing more than they gain and will often get outperformed than the market</h2>
+            <p className="text-xl text-gray-400">Our mission is to change that. Lets move on from gut driven trading and towards proven data driven decision making. DeiBot caters to your goals and allows you to build your own trading strategies with highly accurate price predictions on your side. Our results speak for themselves, beating the S&P 500 by over 9% since 2020</p>
           </div>
 
           {/* Items */}
