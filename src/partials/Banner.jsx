@@ -12,11 +12,11 @@ function Banner() {
             <div className="text-slate-500 inline-flex">
               <a
                 className="font-medium hover:underline text-slate-50"
-                href="https://github.com/cruip/open-react-template"
+                href="https://github.com/mdeihim/DeiBot"
                 target="_blank"
                 rel="noreferrer"
               >
-                Download<span className="hidden sm:inline"> on GitHub</span>
+                Check Us Out<span className="hidden sm:inline"> On GitHub</span>
               </a>{' '}
               <span className="italic px-1.5">or</span>{' '}
               <a className="font-medium hover:underline text-emerald-400" href="https://cruip.com/open-pro/" target="_blank" rel="noreferrer">
