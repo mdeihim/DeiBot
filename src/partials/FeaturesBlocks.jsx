@@ -48,7 +48,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Multi Asset Support</h4>
-              <p className="text-lg text-gray-400 text-center">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
+              <p className="text-lg text-gray-400 text-center">DeiBot will support a variety of different assets. We are continuously developing technology to allow us to provide the best service to our users in a variety of different spaces including stocks, crypto, and forex</p>
             </div>
 
             {/* 4th item */}
